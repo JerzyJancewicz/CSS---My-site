@@ -48,3 +48,30 @@ a{
   top: 50px;
   
 }
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills{
+  padding-bottom: 30px ;
+}
+
+.main-img{
+  padding-top: 20px;
+}
+
+.circle-cmp-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chillies-img{
+  width: 25%;
+  float: right;
+  padding-right: 30px;
+}
