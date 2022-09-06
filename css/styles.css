@@ -12,7 +12,7 @@ h1{
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   line-height: 2;
-  
+
 }
 
 h2{
@@ -25,7 +25,7 @@ h2{
 h3{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  
+
 }
 
 a{
@@ -56,7 +56,7 @@ hr{
 .top-container{
   background-color: #EAF6F6;
   padding-top: 100px;
-  position: relative;  
+  position: relative;
 }
 
 .middle-container{
@@ -95,11 +95,17 @@ hr{
   position: absolute;
   right: 15%;
   top: 50px;
-  
+
 }
 
 .skill-row{
   margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.skill-row-cpp{
+  margin: 200px auto 175px auto;
   width: 50%;
   text-align: left;
 }
@@ -127,7 +133,7 @@ hr{
 .chillies-img{
   width: 25%;
   float: right;
-  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .Pro{
@@ -145,7 +151,7 @@ hr{
 }
 
 .hr-2{
-  margin: 40px auto 80px auto;
+  margin: 80px auto 80px auto;
 }
 
 .Snake-a{
